@@ -2,7 +2,7 @@
 
 > A clean, modern blog dedicated to UX Design — reviews, insights, and practical tips for designers and developers.
 
-🔗 **Live Demo:** [Add your GitHub Pages link here](https://yuossef-ashry.github.io/The-UX-Review/)]
+🔗 **Live Demo:** [[Add your GitHub Pages link here](https://yuossef-ashry.github.io/The-UX-Review/)]
 
 ---
 
